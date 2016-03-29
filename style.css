@@ -1,0 +1,20 @@
+div.input {
+  display: inline-block;
+}
+
+h4 {
+  display: block;
+  margin: 0;
+}
+
+input {
+  width: 100px;
+}
+
+.state-pre {
+  display: inline-block;
+  float: left;
+  border: 1px solid lightgray;
+  padding: 10px;
+  margin-right: 20px;
+}
